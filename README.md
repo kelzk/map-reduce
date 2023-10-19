@@ -1,2 +1,2 @@
 # map-reduce
-Attempt on map-reduce framework with optimization technique such as combining, stripe, order inversion, secondary sorting etc...
+Attempt on map-reduce framework with optimization technique such as in-mapper combining and stripe.
